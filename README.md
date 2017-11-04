@@ -13,5 +13,3 @@ Install requirements:
 pip install -r requirements.txt
 
 Start Jupyter: jupyter notebook
-
-
